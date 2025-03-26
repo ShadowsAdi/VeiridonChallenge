@@ -67,7 +67,7 @@ Example of CSS non-filtered style:
 <img src="https://i.imgur.com/S8U6bMK.png"  alt="clusters_plot_preview" style="width: 50%; height: 50%"></img>
 
 ### Websites grouped JSON file
-https://github.com/ShadowsAdi/VeiridonChallenge/exported_grouped_htmls.json
+https://github.com/ShadowsAdi/VeiridonChallenge/blob/master/exported_grouped_htmls.json
 
 ## Last thoughts
 * I enjoyed this challenge and I am pretty happy with the results even if there is more room for improvement and my thought is what does Veridion behind the scenes because I think it could be very interesting.
