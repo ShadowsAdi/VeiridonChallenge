@@ -14,7 +14,7 @@
 
 ## How to run the project
 * Clone the project locally
-* Install project's `requirements`
+* Install project's `requirements` ( pip install -r requirements.txt )
 * Run `main.py` and a GUI will be shown
 
 ## The Thought process 
